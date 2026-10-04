@@ -6,12 +6,5 @@ I'm a freelance web developer working across frontend and backend technologies.
 
 ## Technologies
 
-- **Frontend:** React
+- **Frontend:** JavaScript, HTML, CSS, React
 - **Backend:** Node.js, Django
-
-## Public projects
-
-- [shop-repo](https://github.com/som-info/shop-repo)
-- [newshop-repo](https://github.com/som-info/newshop-repo)
-
-Explore my repositories to see my work.
