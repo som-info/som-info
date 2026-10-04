@@ -2,9 +2,32 @@
 
 **Full-Stack Web Developer | React, Node.js & Django**
 
-I'm a freelance web developer working across frontend and backend technologies.
+I build responsive web interfaces and backend APIs with JavaScript and Python. My portfolio explores e-commerce, task management, real-time communication, publishing and booking workflows.
+
+## Portfolio
+
+| Project | What it demonstrates | Technologies |
+| --- | --- | --- |
+| [ShopNest](https://github.com/som-info/shopnest) | Product catalog, persistent cart, order creation and catalog administration | React, Django, Django REST Framework |
+| [TaskFlow](https://github.com/som-info/taskflow) | Kanban task management, filters and per-user tasks with JWT authentication | React, Node.js, Express |
+| [Pulse Chat](https://github.com/som-info/pulse-chat) | Chat rooms, typing indicators and message history | React, Node.js, Socket.IO |
+| [Tablebook](https://github.com/som-info/tablebook) | Table availability, reservation allocation and an admin dashboard | React, Node.js, Express |
+| [Inkwell Blog](https://github.com/som-info/inkwell-blog) | Searchable blog, categories, tags and moderated comments | Python, Django, HTML, CSS |
+| [Lumen Landing](https://github.com/som-info/lumen-landing) | Responsive landing page and frontend presentation | HTML, CSS, JavaScript |
+| [Teedatec Portfolio](https://github.com/som-info/teedatec-site) | Personal portfolio with project showcases and contact options | HTML, CSS, JavaScript |
+
+Each repository includes an English README with project details and setup instructions. Explore the source code and screenshots to see how the projects work.
 
 ## Technologies
 
-- **Frontend:** JavaScript, HTML, CSS, React
-- **Backend:** Node.js, Django
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frontend:** React, React Router, Vite, responsive layouts
+- **Backend:** Node.js, Express, Django, Django REST Framework, Socket.IO
+- **Data & APIs:** SQLite, Django ORM, REST APIs, JSON file storage
+- **Tools & testing:** Git, GitHub, npm, Django TestCase, Node.js test runner
+
+## Work with me
+
+I'm interested in freelance work on responsive websites, React interfaces and web applications with backend APIs.
+
+For project inquiries, see the contact options in my [portfolio repository](https://github.com/som-info/teedatec-site).
