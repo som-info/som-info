@@ -20,14 +20,18 @@ Each repository includes an English README with project details and setup instru
 
 ## Technologies
 
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Programming languages:** JavaScript, Python, HTML, CSS
 - **Frontend:** React, React Router, Vite, responsive layouts
 - **Backend:** Node.js, Express, Django, Django REST Framework, Socket.IO
 - **Data & APIs:** SQLite, Django ORM, REST APIs, JSON file storage
 - **Tools & testing:** Git, GitHub, npm, Django TestCase, Node.js test runner
 
+## Languages
+
+English (professional working proficiency) · Turkish (conversational) · Persian (native) — I work with clients in English, Turkish and Persian.
+
 ## Work with me
 
 I'm interested in freelance work on responsive websites, React interfaces and web applications with backend APIs.
 
-For project inquiries, see the contact options in my [portfolio repository](https://github.com/som-info/teedatec-site).
+See my live portfolio at **[teedatec.com](https://teedatec.com)**. For project inquiries, use the contact options there or in my [portfolio repository](https://github.com/som-info/teedatec-site).
